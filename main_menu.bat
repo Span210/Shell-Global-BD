@@ -65,7 +65,7 @@ if "%choice%"=="14" call respaldo_comprimido.bat
 if "%choice%"=="15" call restauracion.bat
 if "%choice%"=="16" call databases_integrity.bat
 if "%choice%"=="17" call usage_report.bat
-if "%choice%"=="18" call respaldo_restauracion_esquemabat.bat
+if "%choice%"=="18" call respaldo_restauracion_esquema.bat
 if "%choice%"=="19" call respaldar_tabla.bat
 if "%choice%"=="20" call see.bat
 
